@@ -1,9 +1,3 @@
-# tsql_challenge
-
-Here’s a concise **README Summary** for the T-SQL queries:
-
----
-
 # T-SQL Query Collection for Business Intelligence and Analytics
 
 This repository contains a collection of **T-SQL queries** designed to showcase **Business Intelligence (BI)** skills. These queries are built to work with relational tables like `CRM_Dataset` and `ProductOrders` to perform advanced data analysis, reporting, and insights generation.
@@ -71,6 +65,3 @@ These queries are designed to run on Microsoft SQL Server in conjunction with `C
 - Building dashboards and reports.
 - Exploring advanced T-SQL capabilities like `RANK()`, `CASE`, and Common Table Expressions (CTEs).
 
----
-
-Let me know if you'd like me to expand or refine any section!
