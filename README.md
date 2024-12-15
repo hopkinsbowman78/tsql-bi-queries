@@ -1,5 +1,4 @@
-# T-SQL Query Collection for Business Intelligence and Analytics
-
+# tsql-bi-queries
 This repository contains a collection of **T-SQL queries** designed to showcase **Business Intelligence (BI)** skills. These queries are built to work with relational tables like `CRM_Dataset` and `ProductOrders` to perform advanced data analysis, reporting, and insights generation.
 
 ---
